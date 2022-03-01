@@ -3,7 +3,7 @@ ECE1512 Project A: Visual Interpretation of Convolutional Neural Networks
 
 Welcome to our ECE1512 repo！
 
-Under the project A folder, you will find MNIST1D.ipynb and HMT.ipynb which contains all the code, figures, and solutions to the questions.
+Under the project A folder, you will find MNIST1D.ipynb and HMT.ipynb which contain all the code, figures, and solutions to the questions.
 
 In each notebook, the results are generated inline along with all the responses to the questions. However, if you want to run the code, you'll have to change the hardcoded path to the correct ones. All training and testing images in the HMT dataset are also included in our repo. If you want to run the code, please use the correct path to those training/testing data.
 
