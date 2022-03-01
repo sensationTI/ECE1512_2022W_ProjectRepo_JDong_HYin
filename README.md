@@ -10,3 +10,4 @@ In each notebook, the results are generated inline along with all the responses 
 
 Since our report is 20 pages long and is not organized to answer all the questions in order, we provided inline solution in the notebook. Each section has been labeled to match the corresponding question asked in the manual, but due to the formatting in Colab, it may not be the prettiest thing to look at. You will find a code section following a text block with explanations/answers. If we didn't include a particular solution in the notebook, it's because those are placed at the end of our experiment section or in the conclusion section in the report!
 
+Thanks!
